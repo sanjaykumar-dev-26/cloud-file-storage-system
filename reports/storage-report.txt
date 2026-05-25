@@ -1,0 +1,5 @@
+===== Cloud Storage Report =====
+
+
+Total Files: 0
+Total Storage Used: 0 bytes

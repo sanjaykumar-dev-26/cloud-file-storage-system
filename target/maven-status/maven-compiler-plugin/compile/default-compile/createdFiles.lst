@@ -1,0 +1,5 @@
+com\sanjay\config\AWSConfig.class
+com\sanjay\service\ReportService.class
+com\sanjay\Main.class
+com\sanjay\model\FileMetadata.class
+com\sanjay\service\S3Service.class
